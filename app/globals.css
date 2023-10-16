@@ -79,6 +79,10 @@ html, body, :root {
   }
 }
 
+.ql-container{
+  font-size: 16px !important
+}
+
 @import "~@uploadthing/react/styles.css";
 
 .cl-internal-b3fm6y, .cl-userButtonPopoverFooter{
